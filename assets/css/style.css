@@ -277,4 +277,19 @@
 
     }
 
+    div h2 {
+        font-size: 4.5rem;
+    }
+
+    .responsive-table,
+    .intro-text-content,
+    .galeria-one-content,
+    section .intro-img img {
+        width: 100%;
+    }
+
+    .intro-img-contato img {
+        display: none;
+    }
+
 }
