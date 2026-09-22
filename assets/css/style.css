@@ -252,6 +252,8 @@
         top: 2rem;
         right: 2rem;
         background-color: var(--black-color);
+        border-radius: 1rem;
+        border: 0.1rem solid var(--white-color);
         color: var(--white-color);
         font-size: 3rem;
         line-height: 3rem;
